@@ -64,7 +64,7 @@ This project was developed with the following technologies:
 -  [Axios](https://github.com/axios/axios)
 -  [Expo](https://expo.io)
 -  [Eslint](https://eslint.org)
--  [Pretier](https://prettier.io)
+-  [Prettier](https://prettier.io)
 
 ## :label: Layout
 Use Figma to acces the [Web](https://www.figma.com/file/91jGSRf9MkzoZEXxkPgJf5/Happy-Web-Copy?node-id=0%3A1) layout or
